@@ -1,6 +1,5 @@
 [![CI](https://github.com/de-it-krachten/ansible-role-test/workflows/CI/badge.svg?event=push)](https://github.com/de-it-krachten/ansible-role-test/actions?query=workflow%3ACI)
 
-
 # ansible-role-test
 
 <basic role description>
