@@ -1,0 +1,12 @@
+---
+
+# Generic
+generic:
+  role: ansible-role-test
+  role_short: test
+  role_description: |
+    <basic role description>
+
+molecule:
+  requirements:
+    roles_extra: []

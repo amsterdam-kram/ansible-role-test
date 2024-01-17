@@ -1,0 +1,15 @@
+---
+
+galaxy_info:
+  role_name: test
+  namespace: ga_automation
+  description: test
+  author: Automation team
+  company: Gemeente Amsterdam
+  license: MIT
+  min_ansible_version: '2.9'
+  platforms:
+    - name: EL
+      versions:
+        - '8'
+dependencies: []
