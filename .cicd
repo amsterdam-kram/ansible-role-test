@@ -674,8 +674,7 @@ galaxy:
 
 # Github
 github:
-  #active: true
-  active: false
+  active: true
   molecule: true
   self_hosted: false
   fail_fast: false
@@ -718,8 +717,7 @@ gitlab:
 
 # Azure Devops
 ado:
-  active: true
-  molecule: true
+  active: false
 
 # molecule
 molecule:
