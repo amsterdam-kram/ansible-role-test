@@ -679,7 +679,8 @@ github:
   self_hosted: false
   fail_fast: false
   parallel: true
-  owner: de-it-krachten
+  # owner: Automation-Erfpacht
+  owner: amsterdam-kram
   repo: ansible-role-test
   lint_matrix:
     - name: ansible_2.9
