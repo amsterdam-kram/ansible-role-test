@@ -1,3 +1,5 @@
 ---
 
-- debug: var=var1
+- name: Debug
+  ansible.builtin.debug:
+    var: var1
